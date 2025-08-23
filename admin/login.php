@@ -5,7 +5,7 @@ $password = "";
 $dbname = "clubreg";
 
 // Create connection
-$conn = mysqli_connect($server, $username, $password, $dbname);
+$conn = mysqli_connect("localhost", "root", "", "clubreg");
 
 // Check connection
 if (!$conn) {
