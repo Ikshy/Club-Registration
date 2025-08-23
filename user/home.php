@@ -114,12 +114,12 @@ mysqli_close($conn);
                             <div class="md:w-2/3 m-4 ">
                                 <div class="flex text-gray-500 text-sm m-2">
                                     <div class="m-1 font-bold"></div>
-                                    <div class="m-1">Mon, Jan 11 2021 05:42:43 PM</div>
+                                    <div class="m-1">Mon, Jan 11 2025 05:42:43 PM</div>
                                 </div>
-                                <div class="font-bold text-black text-xl m-2">AIET  conducts disaster management training</div>
-                                <div class="text-sm text-gray-500 mt-4 m-2"><a href="#"> A three-day training on disaster management is underway at Alva's Institute of Engineering and Technology (AIET) organised by National Disaster Management Force (NDRF), here.
+                                <div class="font-bold text-black text-xl m-2">ULAB  conducts disaster management training</div>
+                                <div class="text-sm text-gray-500 mt-4 m-2"><a href="#"> A three-day training on disaster management is underway at University Of Liberal Arts Bangladesh organised by National Disaster Management Force (NDRF), here.
 
-Speaking after inaugurating the training programme meant for NCC cadets, Mulky-Moodbidri MLA Umanath Kotian urged the students to serve the nation by joining the Indian army. “NCC will instil discipline and straightforwardness,” he said.</a></div>
+Speaking after inaugurating the training programme meant for NCC cadets, Imran Hasan,VC ULAB urged the students to serve the nation by joining the Bangladeshi army. “NCC will instil discipline and straightforwardness,” he said.</a></div>
                                 <div class="flex cursor-pointer">
                                     <!-- <div class="m-2"> <img src="https://source.unsplash.com/50x50/?boy" alt=""
                                             class=" rounded-full" /> </div> -->
@@ -151,13 +151,13 @@ Speaking after inaugurating the training programme meant for NCC cadets, Mulky-M
                             <div class="md:w-2/3 m-4 ">
                                 <div class="flex text-gray-500 text-sm m-2">
                                     <!-- <div class="m-1 font-bold">Vlog,</div> -->
-                                    <div class="m-1">September 15, 2022 02:41 pm</div>
+                                    <div class="m-1">September 15, 2025 02:41 pm</div>
                                 </div>
-                                <div class="font-bold text-black text-xl m-2">Job fair at Moodbidri in coastal Karnataka  </div>
+                                <div class="font-bold text-black text-xl m-2">Job fair at ULAB permanent campus  </div>
                                 <div class="text-sm text-gray-500 mt-4 m-2"><a href="#">
-The 12th edition of Alva’s Pragati, a job fair, will be organised at Alva’s Vidyagiri campus in Moodbidri on October 14 and 15 with the organisers claiming an overwhelmingly positive response from recruiting companies this year.
+The 12th edition of ULAB book, a job fair, will be organised at ULAB permanent campus on October 14 and 15 with the organisers claiming an overwhelmingly positive response from recruiting companies this year.
 
-Alva’s Education Foundation Managing Trustee M. Vivek Alva told reporters in Mangaluru on September 15 that the fair, which was started in 2007 as a corporate social responsibility initiative of the foundation, could not be organised in the last two years due to the COVID-19 pandemic. The job fair is free of cost for job aspirants as well as participating companies.</a></div>
+ULAB Education Foundation Managing Trustee Rainan told reporters in Mohammadpur on September 15 that the fair, which was started in 2025 as a corporate social responsibility initiative of the foundation, could not be organised in the last two years due to the COVID-19 pandemic. The job fair is free of cost for job aspirants as well as participating companies.</a></div>
                                 <div class="flex cursor-pointer">
                                     <!-- <div class="m-2"> <img src="https://source.unsplash.com/50x50/?girl" alt=""
                                             class=" rounded-full" /> </div> -->
@@ -189,12 +189,12 @@ Alva’s Education Foundation Managing Trustee M. Vivek Alva told reporters in M
                             <div class="md:w-2/3 m-4 ">
                                 <div class="flex text-gray-500 text-sm m-2">
                                     <!-- <div class="m-1 font-bold">Vlog,</div> -->
-                                    <div class="m-1">December 08, 2022 10:51 pm </div>
+                                    <div class="m-1">December 08, 2024 10:51 pm </div>
                                 </div>
-                                <div class="font-bold text-black text-xl m-2">Stellium Technology and Innovation Centre becomes operational at AIET </div>
-                                <div class="text-sm text-gray-500 mt-4 m-2"><a href="#">Stellium Technology and Innovation Centre (STIC) by Stellium Inc., began its operation at Alva’s Institute of Engineering Technology, in Moodbidri on Thursday, after being inaugurated by Alva’s Education Foundation chairman M. Mohan Alva.
+                                <div class="font-bold text-black text-xl m-2">Stellium Technology and Innovation Centre becomes operational at ULAB </div>
+                                <div class="text-sm text-gray-500 mt-4 m-2"><a href="#">Stellium Technology and Innovation Centre (STIC) by Stellium Inc., began its operation at University Of Liberal Arts Bangladesh on Thursday, after being inaugurated by Pro. William Junilo, Pro VC of ULAB.
 
-                                Stellium Inc. CEO Randeep Nambiar in his inaugural address said STIC would be a sight for Indian Industry along with Middle East and Asia specific clients. He told students: “At STIC, we innovate, design, build and deploy solutions; create beyond the tried and tested and we will be serving global and regional markets from our centre,” he added.
+                                Stellium Inc. CEO Rahnuma Apshara in his inaugural address said STIC would be a sight for Bangladesh Industry along with Middle East and Asia specific clients. He told students: “At STIC, we innovate, design, build and deploy solutions; create beyond the tried and tested and we will be serving global and regional markets from our centre,” he added.
 
 
                                 </a></div>
@@ -329,28 +329,28 @@ Alva’s Education Foundation Managing Trustee M. Vivek Alva told reporters in M
               <img src="../images/sitelogo.png" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="19 16 24 24" />
                 <!-- <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path> -->
               
-              <span class="ml-3 text-xl">AIET</span>
+              <span class="ml-3 text-xl">ULAB</span>
             </a>
-            <p class="mt-2 text-sm text-gray-500">Alvas engineering college, Club membership management</p>
+            <p class="mt-2 text-sm text-gray-500">University Of Liberal Arts Bangladesh, Club membership management</p>
           </div>
           <div class="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first">
             <div class="lg:w-3/4 md:w-1/2 w-full px-4">
               <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CONTACT US</h2>
               <nav class="list-none mb-10">
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">ALVA’S INSTITUTE OF ENGINEERING & TECHNOLOGY <br>
-Shobhavana Campus, Mijar, <br>
-Moodubidire - 574 225, Mangalore, DK 
-Karnataka State - INDIA.</a>
+                  <a class="text-gray-600 hover:text-gray-800">University Of Liberal Arts Bangladesh <br>
+A campus,Jigatola, <br>
+Dhanmodi - 4, Dhaka,Bangladesh 
+Dhaka, Bangladesh.</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">College Phone: 08258- 262724 / 25</a>
+                  <a class="text-gray-600 hover:text-gray-800">Phone: 018258- 26272 / 25</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">Admission Cell: +91 8050585606</a>
+                  <a class="text-gray-600 hover:text-gray-800">Admission Cell: +88-02-223328006</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">Email: principalaiet08@gmail.com</a>
+                  <a class="text-gray-600 hover:text-gray-800">Email: ulab.edu.bd@gmail.com</a>
                 </li>
               </nav>
             </div>
