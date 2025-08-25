@@ -390,7 +390,7 @@ Dhaka ,BD.</a>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.youtube.com/@ULABian ">Youtube</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800" href=" https://www.instagram.com/alvasengineeringofficial/">Instagram</a>
+                  <a class="text-gray-600 hover:text-gray-800" href="https://www.instagram.com/ulab.captures?igsh=MXN5NTd0eGJxOHo5Mg==">Instagram</a>
                 </li>
               </nav>
             </div>
