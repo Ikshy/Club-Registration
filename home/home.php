@@ -387,7 +387,7 @@ Dhaka ,BD.</a>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/life-alvas/ ">Life @ ULAB</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800" href="https://www.youtube.com/channel/UCJv1H5ZiikrG5KSXfddsDUg ">Youtube</a>
+                  <a class="text-gray-600 hover:text-gray-800" href="https://www.youtube.com/@ULABian ">Youtube</a>
                 </li>
                 <li>
                   <a class="text-gray-600 hover:text-gray-800" href=" https://www.instagram.com/alvasengineeringofficial/">Instagram</a>
