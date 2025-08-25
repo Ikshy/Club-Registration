@@ -287,7 +287,7 @@ mysqli_close($conn);
     <div class="div animate__animated animate__fadeInUp">
         <form class="text-gray-600 body-font relative" action="" method="post">
             <div class="absolute inset-0 bg-gray-300">
-              <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="map" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.1894699734935!2d74.96541281482257!3d13.02360329082181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba355f5ffc25cab%3A0x5ef9b57c1b6279cf!2sAlva&#39;s%20Institute%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sin!4v1673792752516!5m2!1sen!2sin" style="filter: grayscale(3) contrast(1.2) opacity(0.4);"></iframe>
+              <iframe width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0" title="map" scrolling="no" src="google.com/maps?sca_esv=f2c4a4e4626e1a00&output=search&q=ULAB+Google+map&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8CAEObRY5nUC_4-eAKPRM9eMDLjKEazBDjZDj46kXQeml6MNnjVniB3NppCckwxlt8eCcvyuPVrrTWlJKixE9jX6ssR7kPJIzL9Kv536KII5UOCfZ6a0t6uPHx36QS5jm8Ba-OsNaYbZOJErkqg6eE9YQ8VbLu3hCbmUFVmPLO15OkCHeg&entry=mc&ved=1t:200715&ictx=111;"></iframe>
             </div>
             <div class="container px-5 py-24 mx-auto flex">
               <div class="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
@@ -381,7 +381,7 @@ Dhaka ,BD.</a>
               <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">QUICK LINKS</h2>
               <nav class="list-none mb-10">
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/training-placement/">Training & Placement</a>
+                  <a class="text-gray-600 hover:text-gray-800" href="https://www.tbsnews.net/economy/dcci-partners-ulab-develop-skilled-workforce-177262">Training & Placement</a>
                 </li>
                 <li>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.bing.com/videos/riverview/relatedvideo?q=life+at+ULAB&refig=68abaad4c8de46aa85f5ce9e26137c1d&pc=U531&ru=%2fsearch%3fq%3dlife%2bat%2bULAB%26form%3dANNTH1%26refig%3d68abaad4c8de46aa85f5ce9e26137c1d%26pc%3dU531&mmscn=vwrc&mid=36B8E452606D68B5C21936B8E452606D68B5C219&FORM=WRVORC&ntb=1&msockid=e8f7eedf814811f08a21626beb1d8d40 ">Life @ ULAB</a>
