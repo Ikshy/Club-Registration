@@ -320,16 +320,16 @@ mysqli_close($conn);
               
               <span class="ml-3 text-xl">AIET</span>
             </a>
-            <p class="mt-2 text-sm text-gray-500">Alvas engineering college, Club membership management</p>
+            <p class="mt-2 text-sm text-gray-500">ULAB  Club membership management</p>
           </div>
           <div class="flex-grow flex flex-wrap md:pr-20 -mb-10 md:text-left text-center order-first">
             <div class="lg:w-3/4 md:w-1/2 w-full px-4">
               <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CONTACT US</h2>
               <nav class="list-none mb-10">
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">ALVA’S INSTITUTE OF ENGINEERING & TECHNOLOGY <br>
-Bihari camp Dhaka, <br>
-24/A - 574 225, Uttara Dhaka, DK 
+                  <a class="text-gray-600 hover:text-gray-800"> University Of Liberal Arts Bangladesh <br>
+Mohammadpur Beribadh, Dhaka, <br>
+24/A - 574 225, , DK 
 Dhaka ,BD.</a>
                 </li>
                 <li>
@@ -384,7 +384,7 @@ Dhaka ,BD.</a>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/training-placement/">Training & Placement</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/life-alvas/ ">Life @ Alvas</a>
+                  <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/life-alvas/ ">Life @ ULAB</a>
                 </li>
                 <li>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.youtube.com/channel/UCJv1H5ZiikrG5KSXfddsDUg ">Youtube</a>
