@@ -384,7 +384,7 @@ Dhaka ,BD.</a>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/training-placement/">Training & Placement</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800" href="https://www.aiet.org.in/life-alvas/ ">Life @ ULAB</a>
+                  <a class="text-gray-600 hover:text-gray-800" href="https://www.bing.com/videos/riverview/relatedvideo?q=life+at+ULAB&refig=68abaad4c8de46aa85f5ce9e26137c1d&pc=U531&ru=%2fsearch%3fq%3dlife%2bat%2bULAB%26form%3dANNTH1%26refig%3d68abaad4c8de46aa85f5ce9e26137c1d%26pc%3dU531&mmscn=vwrc&mid=36B8E452606D68B5C21936B8E452606D68B5C219&FORM=WRVORC&ntb=1&msockid=e8f7eedf814811f08a21626beb1d8d40 ">Life @ ULAB</a>
                 </li>
                 <li>
                   <a class="text-gray-600 hover:text-gray-800" href="https://www.youtube.com/@ULABian ">Youtube</a>
